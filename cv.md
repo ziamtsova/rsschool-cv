@@ -14,3 +14,16 @@ My goal is to learn the frontend development
 - HTML5
 - CSS3
 - JavaScript basics
+
+## Experience
+
+Made some small tasks on CodeWars and HtmlAcademy (interactive courses)
+
+## Education
+
+ - Chemical Engineer, Belarusian State Technological University
+ - Self education: Front-end development (HTML Academy)
+
+## English
+
+A2 Elementary (CEFR)
