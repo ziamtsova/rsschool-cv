@@ -1,0 +1,53 @@
+html {
+  font-size: 1em;
+  line-height: 1.4;
+  color: #000000;
+}
+
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.avatar {
+  float: right;
+  width: 200px;
+  height: 200px;
+  margin: 0 0 0 1%;
+  background: #f0f0f0;
+  border-radius: 100px;
+  padding: 1%;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.rss-logo {
+    width: 200px;
+    }
+    
+    .my_account:hover {
+        background: #f3bd48;
+        color: #fff
+    }
+
+    .my_account:link{
+        color: #0000d0;
+    }
+
+    .my_account:visited {
+        color: #900060;
+    }
+
+    ul {
+        list-style-type: circle;
+    }
+
+    body {
+        font-family: "Verdana", sans-serif;
+        background-color: #ffffff;
+        color: #000000;
+    }
+
