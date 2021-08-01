@@ -1,4 +1,4 @@
 ## CV link
 
-[Link to CV](https://ziamtsova.github.io/rsschool-cv/)
+[Link to CV (@ziamtsova/rsschool-cv)](https://ziamtsova.github.io/rsschool-cv/)
 
